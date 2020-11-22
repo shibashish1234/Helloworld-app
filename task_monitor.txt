@@ -1,0 +1,10 @@
+today we have installed git 
+we did git configuration
+created files
+added those to staging area
+successfully commited those files
+removed a file from staging area to local to overcome the confliction
+analysed the version history
+saw the diff of a file between local and git repo
+saw the diff of a file between staged area and git repo
+
