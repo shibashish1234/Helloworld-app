@@ -7,4 +7,6 @@ removed a file from staging area to local to overcome the confliction
 analysed the version history
 saw the diff of a file between local and git repo
 saw the diff of a file between staged area and git repo
+saw the diff between two commits
+restored a commit using diff command to bring back to staging area
 
